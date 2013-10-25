@@ -23,3 +23,6 @@ This SDK uses Composer to manage its dependencies. Get it [here](http://getcompo
 - Better code documentation
 - Better user guide
 - Drink coffee
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sergiolepore/auth0-php/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
